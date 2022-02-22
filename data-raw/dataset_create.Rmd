@@ -5,23 +5,18 @@ date: "11/18/2021"
 output: html_document
 dataset:
   citation:
-      title: "Social Data Commons: your title here"
+      title: "Social Data Commons: Education & Training: Earnings per Job"
       subtitle: ""
-      dsDescriptionValue: "Virginia Standards of Learning Test Scores collected by the Virginia Department of Education (VDOE)"
+      dsDescriptionValue: "Earnings per job is the ratio of total compensation (salaries and wages, proprietary income and wage supplements) to total employment (in Bureau of Economic Analysis definitions)"
       subject: "Social Sciences (Ex: Education, Politics, Sociology, Economics, Psychology)"
-      productionDate: "2021-11-17"
+      productionDate: "2022-02-22"
       timePeriodCoveredStart: "2015-01-01"
-      timePeriodCoveredEnd: "2021-01-01"
+      timePeriodCoveredEnd: "2020-01-01"
       dataSources:
-        - "ACS"
-        - "County Health Rankings"
+        - "Bureau of Economic Analysis (BEA)"
       author:
-        - authorName: "Schroeder, Aaron"
-          authorAffiliation: "Univeristy of Virginia"
         - authorName: "Charankevich, Hanna"
           authorAffiliation: "Univeristy of Virginia"
-        - authorName: "Niagra, Bob"
-          authorAffiliation: "Univeristy of Waterloo"
       datasetContact:
         - datasetContactEmail: "ads7fg@virginia.edu"
           datasetContactName: "Schroeder, Aaron"
@@ -30,7 +25,6 @@ dataset:
       country: "United States"
       state: "Virginia"
     geographicUnit:
-      - "State Health District"
       - "County"
 ---
 
