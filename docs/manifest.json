@@ -1,0 +1,27 @@
+{
+  "name": "dc.bea.employment",
+  "data": [
+    {
+      "name": "earnings_per_job",
+      "variables": ["tot_compensation", "tot_employment", "earnings_per_job"],
+      "file": "va_ct_bea_2015_2020_earnings_per_job.csv.xz",
+      "size": 12548,
+      "md5": "715c5be2c01baf9e201e52c28a6a0b5b"
+    }
+  ],
+  "distributions": {
+    "dataverse": {
+      "id": 55915,
+      "doi": "doi:10.18130/V3/95NS8K",
+      "server": "https://dataverse.lib.virginia.edu/",
+      "data": [
+        {
+          "file": "va_ct_bea_2015_2020_earnings_per_job.csv.xz",
+          "id": 55916,
+          "size": 12548,
+          "md5": "715c5be2c01baf9e201e52c28a6a0b5b"
+        }
+      ]
+    }
+  }
+}
