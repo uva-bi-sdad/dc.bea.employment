@@ -10,6 +10,7 @@
     "short_description": "Average of earnings per job.",
     "long_description": "Earnings per job is calculated based on the GDP and Personal Income table from the Bureau of Economic Analysis.",
     "statement": "Earnings per job in {features.name} is {value}.",
+    "equity_category": "Status",
     "sources": [
       {
         "name": "Bureau of Economic Analysis",
